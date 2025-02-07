@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Ejemplo de Canal RSS</title>
+        <link>https://www.ejemplo.com</link>
+        <description>Este es un ejemplo de canal RSS</description>
+        <language>es</language>
+        <lastBuildDate>Fri, 20 Oct 2023 14:27:00 +0000</lastBuildDate>
+
+        <item>
+            <title>Un periodista se liga a una IA</title>
+            <link>https://www.abc.es/tecnologia/informatica/?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2Finformatica%2F</link>
+            <description>Millones de personas ya recurren a la inteligencia artificial en busca de algo más que un simple asistente; 
+            asi que decido probarlo y paso una semana manteniendo una relacion amorosa con un avatar, Miley</description>
+            <language>es</language>
+            <pubDate>Sun, 17 Sep 2023 09:00:00 +0000</pubDate>
+            <author>rodrigoalonso@gmail.com</author>
+        </item>
+        
+        <item>
+            <title>El Gobierno controlara las plataformas de comercio electronico a traves de Competencia</title>
+            <link>https://www.abc.es/tecnologia/gobierno-controlara-plataformas-comercio-electronico-traves-competencia-20250205120453-nt.html</link>
+            <description>La CNMC podra a partir de ahora supervisar a gigantes como Amazon o Shein y los productos que venden</description>
+            <pubDate>Wed, 5 Feb 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/chip-ia</guid>
+            <category>Tecnologia</category>
+            <enclosure url="https://s2.abcstatics.com/abc/www/multimedia/tecnologia/imagen.jpg" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>Los Apple M5 entra en produccion masiva, con el foco en la IA</title>
+            <link>https://www.muycomputer.com/2025/02/05/los-apple-m5-entra-en-produccion-masiva-con-el-foco-en-la-ia</link>
+            <description>El cada vez mas cercano SoC Apple M5 marcara el proximo gran salto en la evolucion de los integrados de la compania.</description>
+            <pubDate>Wed, 5 Feb 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/startups-2025</guid>
+            <category>Informatica</category>
+            <image>
+                <url>https://www.muycomputer.com/wp-content/uploads/2025/02/Apple-m5-1.jpg</url>
+                <title>Apple M5</title>
+                <link>https://www.muycomputer.com/2025/02/05/los-apple-m5-entra-en-produccion-masiva-con-el-foco-en-la-ia</link>
+            </image>
+        </item>
+    </channel>
+</rss>
